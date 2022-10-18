@@ -1,3 +1,4 @@
+git pull https://github.com/vishnuiot/project2.git
 git add .
 git init
 git commit -m "change"
