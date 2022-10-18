@@ -1,3 +1,4 @@
+git pull --rebase
 git add .
 git init
 git commit -m "change"
